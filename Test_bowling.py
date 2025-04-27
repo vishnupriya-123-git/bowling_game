@@ -1,5 +1,5 @@
 import unittest
-from .bowling import BowlingGame
+from .Bowling import BowlingGame
 
 class TestBowlingGame(unittest.TestCase):
     """Unit tests for the BowlingGame class."""
